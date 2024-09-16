@@ -17,16 +17,16 @@ web. En este caso usamos el LIVE SERVER <strong>(completado)</strong>
 
 ## ACTIVIDAD NUMERO 2 b. Elementos en bloque/linea - Tablas - Formularios - listas
 Título Principal de la Página: Elige un título descriptivo y relevante que refleje el tema general o el 
-propósito de la página. Este deberá ser prominente y situado en la parte superior.
+propósito de la página. Este deberá ser prominente y situado en la parte superior.(Completado)
 • Sección de Lista: Crea una lista, ya sea ordenada o desordenada, que presente una serie de ítems 
 relacionados al tema de tu página. Precede esta lista con un subtítulo que indique qué 
-representa.
+representa.(completado)
 • Sección de Tabla: Incorpora una tabla con datos pertinentes, asegurándote de que esté 
-acompañada de un subtítulo que explique la naturaleza de los datos presentados.
+acompañada de un subtítulo que explique la naturaleza de los datos presentados.(completado)
 • Sección de Formulario: Incluye un formulario interactivo destinado a recoger información o 
 comentarios de los usuarios. Este formulario debe estar precedido por un subtítulo que instruya al 
-usuario sobre cómo y por qué completarlo.
+usuario sobre cómo y por qué completarlo.(completado)
 • Cada sección debe estar bien definida y estructurada, utilizando etiquetas en bloque para su 
 disposición general y etiquetas en línea para los detalles específicos. El objetivo es practicar la 
 organización de diferentes elementos HTML y mejorar la semántica y accesibilidad del contenido 
-web
+web(completado)
