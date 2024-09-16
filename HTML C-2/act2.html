@@ -1,0 +1,85 @@
+<!-- Descripcion en el READ ME Actividad 2b-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Actividad2</title>
+</head>
+<body>
+    <h1 align="center">Fideos con manteca</h1>
+    <div>
+        <h2>Elementos escenciales para su realizacion</h2>
+        <ul>
+            <li>Agua</li>
+            <li>Pastas</li>
+            <li>olla</li>
+            <li>Aceite</li>
+            <li>Manteca</li>
+            <li>colador</li>
+            <li>sal</li>
+        </ul>
+    </div>
+    <br>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="3">INGREDIENTES CANTIDAD </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Agua</td>
+                <td>2lts</td>
+            </tr>
+            <tr>
+                <td>fideos</td>
+                <td>1 paquete</td> 
+            </tr>
+            <tr>
+                <td>manteca</td>
+                <td>50gr</td>
+            </tr>
+            <tr>
+                <td>aceite</td>
+                <td>50ml</td>
+            </tr>    
+        </tbody>
+    </table>
+    <div>
+        <h2>Procedemos a su preparacion</h2>
+        <ol>
+            <li>Cargaremos la olla con los 2 litros de agua</li>
+            <li>Procederemos a colocar la olla al fuego para hacer hervir el agua</li>
+            <li>le echaremos el aceite al agua para evitar que se pegue</li>
+            <li>hecharle sal a gusto (opcional)</li>
+            <li>una vez el agua este en punto de hervor echaremos los fideos</li>
+            <li>Revolver los fideos cada 2 min durante 10 min</li>
+            <li>Pasados los 10 min procederemos colar los fideos con el colador</li>
+            <li>una vez colado los fideos los echamos nuevamente a la olla pero esta vez sin agua</li>
+            <li>le echaremos la manteca y revolvemos </li>
+            <li>ahora si a servir en un plato echarle abudante queso y a disfrutar unos fideitos con manteca</li>
+        </ol>
+    </div>
+    <form action="/enviar-datos" method="post">
+        <label for="nombre">Tu nombre:</label>
+        <input type="text" id="nombre" name="nombre">
+        <label for="Eficacia">Te sirvio?</label>
+        <select name="Eficacia" id="Eficacia">
+            <option value="si">Si</option>
+            <option value="no">No</option>
+        </select>
+        <div>
+        <br>
+        <label for="newsletter">Suscribirse al boletín:</label>
+        <input type="checkbox" id="newsletter" name="newsletter" checked>
+        </div>
+        <br>
+        <label for="mensaje">Tu mensaje:</label>
+        <textarea id="mensaje" name="mensaje" rows="4" cols="50">
+        Devolucion...
+        </textarea>
+        <input type="submit" value="Enviar Devolucion">
+        </form>
+</body>
+</html>
