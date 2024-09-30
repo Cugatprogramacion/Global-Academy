@@ -1,0 +1,85 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.headerSup{
+    background-color: rgb(255, 211, 228);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    padding: 1% 1% 1% 1%;
+}
+.barraNav{
+    background-color: rgb(241, 241, 241);
+    list-style: none;
+    text-align: right;
+    font-size: 12px;
+    padding: 1%;
+    border: 1% solid rgb(236, 234, 235);
+    margin: none;
+}
+.barraNav li{
+    padding-left: 1%;
+    display: inline;
+}
+.barraNav a{
+    background-color: rgba(255, 255, 255, 0);
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+.headlogo{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 1% 1% 1% 1%;
+    box-sizing: border-box;
+    height: 150px;
+}
+.navhead {
+    display:inline;
+    float: right;
+    margin-top: 4.5%;
+    margin-right: 10%;
+    height: 15px;
+}
+.navhead input{
+    box-sizing: border-box;
+    padding: 5px 15px;
+    border: 1px solid black;
+    font-size: 19px;
+    margin: 0;
+    width: 300px;
+}
+.navhead button{
+    margin: 0 200px 0 0;
+    border: 5px solid pink;
+    background-color: pink;
+    bottom: 1px;
+    margin-top: 3%;
+}
+#foto1{
+    margin-left: 300px;
+}
+.barrageneral{
+    background-color: rgb(255, 211, 228);
+    box-sizing: border-box;
+    border: 5px solid rgb(255, 211, 228);
+    margin-top: 100px
+}
+.barrageneral ul{
+    list-style: none;
+    padding: 2%;
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+.barrageneral ul li{
+    display: inline;
+}
+.barrageneral ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
