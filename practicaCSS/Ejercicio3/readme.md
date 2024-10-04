@@ -23,4 +23,4 @@
 ## Objetivo: Crear un fondo con un gradiente lineal que pase de azul a verde. (OK)
 ## Instrucciones:
 ## 1.Crea un archivo HTML con un elemento p y un texto de 100 palabras. (OK)
-## 2.Aplica un gradiente lineal de fondo que comience en azul y termine en verde (OK)
+## 2.Aplica un gradiente lineal de fondo que comience en azul y termine en verde (OK)qwqw
